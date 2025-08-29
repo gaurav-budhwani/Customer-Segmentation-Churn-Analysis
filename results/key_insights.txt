@@ -1,0 +1,8 @@
+CUSTOMER CHURN ANALYSIS - KEY INSIGHTS
+==================================================
+
+Overall churn rate: 42.8%
+Highest risk segment: High-Risk New Customers
+Highest churn contract type: Month-to-month
+Monthly revenue at risk: $212,677.73
+Top churn factors: MonthlyCharges, TotalCharges, tenure

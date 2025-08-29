@@ -1,0 +1,4 @@
+SpendingSegment,TotalCustomers,ChurnedCustomers,ChurnRate
+Low Spender,1127,401,35.58118899733807
+Medium Spender,1500,574,38.266666666666666
+High Spender,4416,2038,46.150362318840585
